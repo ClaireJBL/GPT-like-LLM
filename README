@@ -1,0 +1,5 @@
+This project contains code for developing, pretraining, and finetuning a GPT-like LLM.
+
+To run a ChatGPT-like user interface with the pretrained LLMs from chapter 5
+First, install the chainlit package
+Second, chainlit run app_orig.py

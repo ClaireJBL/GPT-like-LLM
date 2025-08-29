@@ -1,0 +1,11 @@
+BPE using tiktoken 0.7.0
+To activate the virtual env to use 0.7.0 tiktoken:
+    pyenv activate tk070
+To deactivate:
+    source deactivate
+To freeze installed packages:
+    pip freeze > requirements.txt
+To recreate the environment:
+    pip install -r requirements.txt
+To uninstall the environment:
+    pyenv uninstall tk070
