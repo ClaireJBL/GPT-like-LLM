@@ -1,4 +1,4 @@
-from ch04 import generate_text_simple
+from gptModel import generate_text_simple
 
 import json
 import os

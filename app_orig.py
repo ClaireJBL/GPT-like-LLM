@@ -2,8 +2,8 @@ import tiktoken
 import torch
 import chainlit
 
-from ch04 import GPTModel
-from ch05 import (
+from gptModel import GPTModel
+from evaluate import (
     download_and_load_gpt2,
     generate,
     load_weights_into_gpt,
